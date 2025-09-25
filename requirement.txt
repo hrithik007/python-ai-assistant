@@ -1,0 +1,4 @@
+fastapi    # Framework to build web APIs in Python (like Express.js in Node)
+uvicorn    # High-performance ASGI server that runs FastAPI apps
+openai     # Official OpenAI SDK to call GPT models & embeddings API
+faiss-cpu  # Facebook AI Similarity Search library, stores embeddings & does fast similarity search
